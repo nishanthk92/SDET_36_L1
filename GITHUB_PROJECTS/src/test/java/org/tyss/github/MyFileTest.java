@@ -19,6 +19,7 @@ public class MyFileTest
 	public void github3Test()
 	{
 		System.out.println("this is Third Github");
+		System.out.println("this is valid Github");
 	}
 
 
