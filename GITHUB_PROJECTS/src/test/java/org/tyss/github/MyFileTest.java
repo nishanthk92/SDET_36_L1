@@ -13,6 +13,7 @@ public class MyFileTest
 	public void github2Test()
 	{
 		System.out.println("this is Second Github");
+		System.out.println("Valid github");
 	}
 	@Test
 	public void github3Test()
