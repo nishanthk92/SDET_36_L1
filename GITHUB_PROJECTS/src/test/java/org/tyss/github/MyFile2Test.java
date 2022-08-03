@@ -2,7 +2,7 @@ package org.tyss.github;
 
 import org.testng.annotations.Test;
 
-public class MyFile3Test
+public class MyFile2Test
 {
 	@Test
 	public void github1Test()
